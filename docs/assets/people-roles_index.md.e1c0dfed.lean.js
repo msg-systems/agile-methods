@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as o,N as l}from"./chunks/framework.9289536d.js";const f=JSON.parse('{"title":"People and Roles","description":"","frontmatter":{},"headers":[],"relativePath":"people-roles/index.md"}'),r={name:"people-roles/index.md"},t=l("",2),s=[t];function n(i,p,d,_,c,h){return a(),o("div",null,s)}const u=e(r,[["render",n]]);export{f as __pageData,u as default};
