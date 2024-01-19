@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as l,N as i}from"./chunks/framework.9289536d.js";const f=JSON.parse('{"title":"Leadership","description":"","frontmatter":{},"headers":[],"relativePath":"leadership/index.md"}'),r={name:"leadership/index.md"},t=i("",2),d=[t];function o(s,h,n,p,c,_){return a(),l("div",null,d)}const u=e(r,[["render",o]]);export{f as __pageData,u as default};

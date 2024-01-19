@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as l,V as r}from"./chunks/framework.21p9a7S7.js";const f=JSON.parse('{"title":"Agile Methods","description":"","frontmatter":{},"headers":[],"relativePath":"methods.md","filePath":"methods.md"}'),o={name:"methods.md"},t=r("",13),i=[t];function s(n,h,d,u,m,p){return l(),a("div",null,i)}const g=e(o,[["render",s]]);export{f as __pageData,g as default};
