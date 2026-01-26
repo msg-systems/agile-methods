@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as l,V as o}from"./chunks/framework.DFblqtor.js";const g=JSON.parse('{"title":"Agile Methods","description":"","frontmatter":{},"headers":[],"relativePath":"methods.md","filePath":"methods.md"}'),i={name:"methods.md"},t=o("",13),s=[t];function r(h,n,d,m,u,p){return l(),a("div",null,s)}const f=e(i,[["render",r]]);export{g as __pageData,f as default};
